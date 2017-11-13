@@ -4,8 +4,68 @@
              xmlns:local="clr-namespace:PracticaLinq"
              x:Class="PracticaLinq.MainPage">
 
-	<Label Text="Welcome to Xamarin Forms!" 
-           VerticalOptions="Center" 
-           HorizontalOptions="Center" />
+    <StackLayout Orientation="Vertical">
+
+        <Label Text="LinQ"/>
+
+        <StackLayout Orientation="Horizontal">
+            <Entry x:Name="txtName"
+                   HorizontalOptions="Start"/>
+            <Entry x:Name="txtAge"
+                   HorizontalOptions="Start"/>
+        </StackLayout>
+
+        <Button
+            x:Name="btnWhere"
+            Text="Where"
+            Clicked="loadWhere"
+            HorizontalOptions="Start"/>
+
+        <StackLayout Orientation="Horizontal">
+            <Button
+                x:Name="btnFirst"
+                Clicked="loadFirst"
+                Text="FirstOrDefault"/>
+            <Button
+                x:Name="btnSingle"
+                Clicked="loadSingle"
+                Text="SingleOrDefault"/>
+            <Button
+                x:Name="btnLast"
+                Text="LastOrDefault"/>
+        </StackLayout>
+
+        <StackLayout Orientation="Horizontal">
+            <Button
+                x:Name="btnOrderBy"
+                Clicked="loadOrder"
+                Text="OrderBy"
+                HorizontalOptions="Start"/>
+            <Button
+                x:Name="btnOrderByDescending"
+                Clicked="loadOrderDes"
+                Text="OrderByDescending"
+                HorizontalOptions="Start"/>
+        </StackLayout>
+
+        <StackLayout Orientation="Horizontal">
+            <Button
+                x:Name="btnSkipWhile"
+                Text="SkipWhile"
+                Clicked="loadSkip"
+                HorizontalOptions="Start"/>
+            <Button
+                x:Name="btnTakeWhile"
+                Text="TakeWhile"
+                Clicked="loadTake"
+                HorizontalOptions="Start"/>
+        </StackLayout>
+
+        <Label x:Name="lblError"
+               />
+
+        <ListView x:Name="listContactos"/>
+        
+    </StackLayout>
 
 </ContentPage>

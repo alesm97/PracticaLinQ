@@ -1,0 +1,20 @@
+var searchData=
+[
+  ['app',['App',['../class_practica_linq_1_1_app.html',1,'PracticaLinq']]],
+  ['app',['App',['../class_practica_linq_1_1_u_w_p_1_1_app.html',1,'PracticaLinq::UWP']]],
+  ['app',['App',['../class_practica_linq_1_1_app.html#afcaef60e3d24a98652b4941ce6aa1b4a',1,'PracticaLinq.App.App()'],['../class_practica_linq_1_1_u_w_p_1_1_app.html#aac4f49d28b65b3bd00efbb79e8b73c2a',1,'PracticaLinq.UWP.App.App()']]],
+  ['app_2eg_2ecs',['App.g.cs',['../_app_8g_8cs.html',1,'']]],
+  ['app_2eg_2ei_2ecs',['App.g.i.cs',['../_app_8g_8i_8cs.html',1,'']]],
+  ['app_2examl_2ecs',['App.xaml.cs',['../_app_8xaml_8cs.html',1,'']]],
+  ['app_2examl_2ecs',['App.xaml.cs',['../_u_w_p_2_app_8xaml_8cs.html',1,'']]],
+  ['appdelegate',['AppDelegate',['../class_practica_linq_1_1i_o_s_1_1_app_delegate.html',1,'PracticaLinq::iOS']]],
+  ['appdelegate_2ecs',['AppDelegate.cs',['../_app_delegate_8cs.html',1,'']]],
+  ['application',['Application',['../class_practica_linq_1_1i_o_s_1_1_application.html',1,'PracticaLinq::iOS']]],
+  ['applicationname',['ApplicationName',['../class_practica_linq_1_1_droid_1_1_resource_1_1_string.html#afe51b90938c75297613182c9d341a861',1,'PracticaLinq::Droid::Resource::String']]],
+  ['assemblyinfo_2ecs',['AssemblyInfo.cs',['../_android_2_properties_2_assembly_info_8cs.html',1,'']]],
+  ['assemblyinfo_2ecs',['AssemblyInfo.cs',['../_u_w_p_2_properties_2_assembly_info_8cs.html',1,'']]],
+  ['assemblyinfo_2ecs',['AssemblyInfo.cs',['../i_o_s_2_properties_2_assembly_info_8cs.html',1,'']]],
+  ['assemblyinfo_2ecs',['AssemblyInfo.cs',['../_properties_2_assembly_info_8cs.html',1,'']]],
+  ['attribute',['Attribute',['../class_practica_linq_1_1_droid_1_1_resource_1_1_attribute.html',1,'PracticaLinq::Droid::Resource']]],
+  ['attribute',['Attribute',['../class_practica_linq_1_1_droid_1_1_resource_1_1_attribute.html#a2bfc059ef911de7264bf9b6e92b5fcf2',1,'PracticaLinq::Droid::Resource::Attribute']]]
+];
